@@ -1,0 +1,6 @@
+rail fence cypher
+
+name : 2 Rails Never Meet
+
+hint : 2 parallel set of train tracks
+

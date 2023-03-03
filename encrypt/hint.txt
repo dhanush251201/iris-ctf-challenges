@@ -1,0 +1,9 @@
+AES encryption
+
+name : secure office
+
+key : ihopethisislongg (needs to be provided in the question)
+mode : ECB
+keySize : 128bits
+
+- base64 decode output

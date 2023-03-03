@@ -1,0 +1,8 @@
+name :CLASSic java problems
+
+provide only the class file
+
+flag : irisFLG{IaMsUrEyOuDiDnOtBrUtEfOrCeMe}
+Brute force 
+len of flag is 37
+len of main content leaving the irisFLG{} is 28
